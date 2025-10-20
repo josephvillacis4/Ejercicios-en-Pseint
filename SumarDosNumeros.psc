@@ -1,0 +1,15 @@
+Algoritmo  SumarDosNumeros
+    Definir num1, num2, suma Como Entero
+	
+    Escribir "Ingresa el primer número: "
+    Leer numero1
+	
+    Escribir "Ingresa el segundo número: "
+    Leer num2
+	
+	suma <- num1 + num2
+	
+    Escribir "La suma de los dos números es: ", suma
+FinAlgoritmo
+
+
